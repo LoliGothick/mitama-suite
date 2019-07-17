@@ -1,3 +1,6 @@
 [submodule "mitama-result"]
 	path = mitama-result
 	url = https://github.com/LoliGothick/mitama-cpp-result.git
+[submodule "mitama-maybe"]
+	path = mitama-maybe
+	url = https://github.com/LoliGothick/mitama-maybe.git
