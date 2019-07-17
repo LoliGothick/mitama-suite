@@ -4,3 +4,6 @@
 [submodule "mitama-maybe"]
 	path = mitama-maybe
 	url = https://github.com/LoliGothick/mitama-maybe.git
+[submodule "mitama-dimensional"]
+	path = mitama-dimensional
+	url = https://github.com/LoliGothick/mitama-dimensional.git
